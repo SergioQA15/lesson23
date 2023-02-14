@@ -1,0 +1,25 @@
+<html>
+
+<head>
+    <b> Типи тестування
+</b>
+    <p>
+        Визначають 4 рівні тестування (Testing levels)
+        <b> програмного забезпечення</b>:
+  <p>
+    <ol type="1">
+        <li> Модульне </li>
+  <li> Інтеграційне </li>
+        <li> Системне </li>
+        <li> Приймальне </li>
+        <p>
+             <img src=https://doc-0k-5g-docs.googleusercontent.com/docs/securesc/li30dq377evokta7i3tpgimp3n750ob7/7hfkc6uf8266sgh1i63am0o8upqdbvd3/1674656625000/07012416880351572630/15783856620438731618/1salOBcxg57_iwzPTNGjsuvkgaUaxMshj?
+e=view&ax=AB85Z1D45VnJfZS3E6d1_3hD4DQ7_f4RcMXvtsQwD2bajr2QoOkifex42Eir-hoZb0FtPnVN44nndJY2N2VtjrRhIpAOjPVDgcCTNTzFj_61taQFx93XRD5sCFKggwOh
+cItn-F0Y0JaOMzc5r_x_R3mN5b8CSTen5QbGe_6xT4GK0qxWxX6_FK5L6BKTdGsKAVYVMBHoIU4j55oygS2aWjJWXeDorfmY3-3gNexPxGjKMy8LR2jMbmoeC70Q0EXVfxBXY4cV7HvBTp9ZyciAQQs4ikYAs2Jd_E0L
+RRmhjfU9c1c9KCAsXZMGo4Gyh1Kk_OIYKILas84D6a685XBQgT-Ta4zEYxMA-M7yodr2yPCMyA7EnZ0LiKQ_tZb3nv2-soI7_d23iND3lKODHFD98sAVu_kh1cjOrB9U7brYZlUFQND-22cCb2NbF4zkFsx8xeOfKJU-QJ32pAPrR1D0kNQI-
+OuwiGC9foZCr0KOwM8COjX4j83YiJPp0Av9JaT5XOZTb9wXNxhXgvHaCHQVbE9V_7r81aQcEkrEvDeSUMt-lLhFf6A7nSyIWNp_Eb0fn51PVzJLnCEAmucfAMf5iFVbXdQWlgOOEooUXWj-rnXjGTsc0HAkMhxkwengHbyL_Ja2pbEn5TkS0SODvk5WrvfMoJLEPfiyUh9ObULmzW
+kKT2T_GzS1iCckEa70436rAD3sTAw__z5uJI4ak4YvEDKJEKQkodDgmpaAi_Ol0sb7pxJTsX6q9Po1vlRB_05yTr3DAJ0JGuoyrWrDnCXL_ePVyzvNFzMFiULjS7eMY3G1w_eNbB5lawl8zraqbe5hGqdpL1oPqA-R6Yj3mR0NU1uupXRLhV5HMKknCupq-
+l_ZWE7SWNeN_hmhSEHEvvEpOkaFZw&uuid=e526e58a-b711-4770-ba17-e1f9f7455ac9&authuser=0&nonce=r788on4821o2k&user=15783856620438731618&hash=8mce03iouhk6s1kfgc6lfdlgc27pi1mg>
+</head>
+
+</html>
